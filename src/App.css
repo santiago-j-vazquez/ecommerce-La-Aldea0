@@ -1,4 +1,18 @@
-.App {
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');ç
+
+* {
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main-container {
+    float: left;
+    width: 100%;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +50,4 @@
     transform: rotate(360deg);
   }
 }
+ */
